@@ -343,6 +343,7 @@ i{
 	background-attachment: fixed;
 	background-size: 100%;
 	background-position: cover;
+	background-repeat: no-repeat;
 	color: #FFFFFF;
 }
 #contact h1{
